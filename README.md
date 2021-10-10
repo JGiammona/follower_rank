@@ -1,9 +1,9 @@
 # follower_rank
  Find out which of your Twitter followers has the most followers.
 
- 0) Get the tweepy python package with "pip intall tweepy"
+ 0) Get the tweepy python package with "pip install tweepy"
  1) Copy your API Key and API Secret Key into my_followers.py and followers_count.py
- 2) Run my_followers.py which will generate a my_followers.json file with a list of your followers usernames.
+ 2) Run my_followers.py which will generate a my_followers.json file with a list of your followers' usernames.
  
  3) In followers_count.py, set max_count to less than or equal to 300. 
  For personal projects, Twitter rate limits user queries to 300 queries/15 minutes. Depending on how many followers you have,
@@ -17,4 +17,4 @@
 
  EXTRA
 
- 6) If your interested in which of your followers is very picky with their follows, pickiness.py will output picky_followers.json which shows their friends/follower ratio.
+ 6) If you're interested in which of your followers is very picky with their follows, pickiness.py will output picky_followers.json which shows their friends/follower ratio.
