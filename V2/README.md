@@ -1,5 +1,5 @@
 # User's followers
-List all followers (and their decriptions) of a specific user 
+List all followers (and their descriptions) of a specific user 
 
  0) Get the tweepy python package with "pip install tweepy"
  1) Copy your Twitter Developer Bearer token into user_followers.py and followers_count.py
